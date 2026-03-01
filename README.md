@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ranjith Kumar
 
-<!--
-**Ranjithkumarkoppolu/Ranjithkumarkoppolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cybersecurity Analyst | SOC Analyst Learner
 
-Here are some ideas to get you started:
+I am currently learning cybersecurity, networking, and threat detection. I am building hands-on labs and security projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Networking Fundamentals
+- Linux
+- Wireshark
+- Nmap
+- Packet Analysis
+- Basic Threat Detection
+
+## Tools
+- Wireshark
+- Nmap
+- Linux
+- GitHub
+
+## Current Goal
+To become a SOC Analyst and work in cybersecurity.
+
+## Projects
+- Cybersecurity Learning Lab
+- Wireshark Packet Analysis
+- Nmap Scanning Project
+- SOC Analyst Labs (coming soon)
