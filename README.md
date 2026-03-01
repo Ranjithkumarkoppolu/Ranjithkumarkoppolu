@@ -11,6 +11,19 @@ I am currently learning cybersecurity, networking, and threat detection. I am bu
 - Nmap
 - Packet Analysis
 - Basic Threat Detection
+- 
+- ## Cybersecurity Tools
+- Wireshark
+- Nmap
+- Linux
+- Git
+- Network Analysis
+
+## Currently Learning
+- SOC Operations
+- Threat Detection
+- Log Analysis
+- Incident Response
 
 ## Tools
 - Wireshark
